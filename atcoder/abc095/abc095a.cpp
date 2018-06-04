@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int main(){
-  string S;
+  str S;
   cin >> S;
   int ans = 700;
   if (S[0] == 'o')
